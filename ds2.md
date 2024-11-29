@@ -122,11 +122,13 @@ $$
 Corollary 4 follows from Vandermonde's Identity.
 
 **Corollary 4**. If $n$ is a non-negative integer, then
+
 $$
 \binom{2n}{n} = \sum_{k=0}^{n} \binom{n}{k}^2
 $$
 
 **Theorem 4**. Let $n$ and $r$ be non-negative integers with $r \leq n$. Then
+
 $$
 \binom{n+1}{r+1} = \sum_{j=r}^{n} \binom{j}{r}
 $$
