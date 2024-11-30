@@ -23,23 +23,31 @@ Recursion is a method of defining a function, sequence, or object in terms of it
 
 ## Recursively Defined Functions
 **Arithmetic Sequence** is an order of numbers that has a pattern regarding the difference of the numbers that are beside each other.
+
 $$
 \{5, 9, 13, 17, 21, \ldots\}
 $$
+
 Finding the $n$-th term of an arithmetic sequence is given by the formula:
+
 $$
 a_n = a_1 + (n - 1)d
 $$
+
 Where $d$ is the difference between the terms.
 
 **Geometric Sequence** is an order of numbers that has a pattern regarding the ration of the numbers that are beside each other.
+
 $$
 \{2, 4, 8, 16, 32, \ldots \}
 $$
+
 Finding the $n$-th term of a geometric sequence is given by the formula: 
+
 $$
 a_n = a_1 r^{n-1}
 $$
+
 Where $r$ is the common ratio between the terms.
 
 ## Recursively Defined Sets and Structures
